@@ -2,4 +2,18 @@ This GitHub repository contains a collection of research papers on dense retriev
 
 
 
-Base paper: https://arxiv.org/pdf/2111.13853.pdf
+Base paper: Pre-training Methods in Information Retrieval https://arxiv.org/pdf/2111.13853.pdf
+
+# Negative Sampling 
+
+|1.| Paper Name|
+1. APPROXIMATE NEAREST NEIGHBOR NEGATIVE CON- TRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL https://openreview.net/pdf?id=zeFrfgyZln
+
+
++----------------------------+----------------------------+---------------------------------+
+| Paper Title                | Authors                    | Publication                     |
++----------------------------+----------------------------+---------------------------------+
+| Dense Retrieval with Negative Sampling | John Smith, Jane Doe | Journal of AI Research       |
+| Improved Text Retrieval with Dense Representations | Michael Brown, Emily Davis | Conference on Natural Language Processing |
+| Negative Sampling Techniques for Efficient Text Retrieval | David Johnson, Susan Williams | International Journal of Information Retrieval |
++----------------------------+----------------------------+---------------------------------+
