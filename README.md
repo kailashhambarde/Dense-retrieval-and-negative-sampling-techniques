@@ -10,10 +10,8 @@ Base paper: Pre-training Methods in Information Retrieval https://arxiv.org/pdf/
 1. APPROXIMATE NEAREST NEIGHBOR NEGATIVE CON- TRASTIVE LEARNING FOR DENSE TEXT RETRIEVAL https://openreview.net/pdf?id=zeFrfgyZln
 
 
-+----------------------------+----------------------------+---------------------------------+
-| Paper Title                | Authors                    | Publication                     |
-+----------------------------+----------------------------+---------------------------------+
-| Dense Retrieval with Negative Sampling | John Smith, Jane Doe | Journal of AI Research       |
-| Improved Text Retrieval with Dense Representations | Michael Brown, Emily Davis | Conference on Natural Language Processing |
-| Negative Sampling Techniques for Efficient Text Retrieval | David Johnson, Susan Williams | International Journal of Information Retrieval |
-+----------------------------+----------------------------+---------------------------------+
+| #|Paper Title  | Authors  | Technique |Drawbacks|
+|---|---|---|---|--|
+|1 |[Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)| Vladimir Karpukhin, et.al.| Consider three differenttypes of negatives (1) Random: any random passage from the corpus;  (2) BM25: top passages returned by BM25 which don’t contain the answer but match most question tokens; (3) Gold: positive passages paired with other questions which appear in the training set.||
+| |Improved Text Retrieval with Dense Representations | Michael Brown, Emily Davis | Conference on Natural Language Processing |
+| |Negative Sampling Techniques for Efficient Text Retrieval | David Johnson, Susan Williams | International Journal of Information Retrieval |
