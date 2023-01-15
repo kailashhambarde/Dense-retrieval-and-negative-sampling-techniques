@@ -2,3 +2,4 @@ This GitHub repository contains a collection of research papers on dense retriev
 
 
 
+Base paper: https://arxiv.org/pdf/2111.13853.pdf
